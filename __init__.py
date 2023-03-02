@@ -1,0 +1,4 @@
+MODEL_MICROSOFT_DIABLO_MEDIUM = 'microsoft/DialoGPT-medium'
+MODEL_MICROSOFT_DIABLO_LARGE = 'microsoft/DialoGPT-large'
+
+OUTPUT_MAX_LENGTH = 200
